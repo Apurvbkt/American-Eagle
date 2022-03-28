@@ -17,6 +17,8 @@ An e-commerce website of American lifestyle, clothing and accessories. American 
 <li> JavaScript</li>
 <li> Local Storage</li>
 
+# How it works -
+First you have to have to go to the signup page and create a new account. Then you will get an alert that signup successful. After the signup process is completed you have to login with the same details and it wil redirect you to the landing page. You can now go to the category page and navigate to add products to the cart. After that you can proceed to the cart page then after clicking on checkout button you will be redirected to the payment page there you can add your payment details and after clicking on pay now button, you will get an alert of successful payment.
 
 ## Home page -
 In Home page there is a Navbar Using that we can navigate to Men's Page, Women's page & Kid's page. If we move to Men's page we can see the Men's page.
