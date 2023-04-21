@@ -3,16 +3,16 @@ var data = [
     name: "AE Embroidered T-Shirt",
 
     image1_url:
-      "https://aeo.imgix.net/img/app/product/6/621280-6362545.jpg?w=317&auto=format",
+      "/images/tshirt_img/t_f_1.avif",
     image2_url:
-      "https://aeo.imgix.net/img/app/product/6/621280-6362543.jpg?w=317&auto=format",
+      "/images/tshirt_img/t_b_1.avif",
     price: 199,
   },
   {
     name: "AE Embroidered T-Shirt",
 
     image1_url:
-      "https://aeo.imgix.net/img/app/product/6/615407-5871851.jpg?w=317&auto=format",
+      "/images/tshirt_img/t_f_2.avif",
     image2_url:
       "https://aeo.imgix.net/img/app/product/6/615407-5871852.jpg?w=317&auto=format",
     price: 699,
@@ -20,7 +20,7 @@ var data = [
   {
     name: "AE Embroidered T-Shirt",
     image1_url:
-      "https://aeo.imgix.net/img/app/product/6/633155-6238998.jpg?w=317&auto=format",
+      "/images/tshirt_img/t_f_3.avif",
     image2_url:
       "https://aeo.imgix.net/img/app/product/6/612981-5831859.jpg?w=317&auto=format",
     price: 899,
@@ -28,19 +28,19 @@ var data = [
   {
     name: "AE Super Soft Pocket T-Shirt",
     image1_url:
-      "https://aeo.imgix.net/img/app/product/6/611445-5796060.jpg?w=317&auto=format",
+      "/images/tshirt_img/t_f_4.avif",
     price: 999,
   },
   {
     name: "AE Super Soft Pocket T-Shirt",
     image1_url:
-      "https://aeo.imgix.net/img/app/product/6/610430-6093712.jpg?w=317&auto=format",
+      "/images/tshirt_img/t_f_5.avif",
     price: 599,
   },
   {
     name: "AE Super Soft Pocket T-Shirt",
     image1_url:
-      "https://aeo.imgix.net/img/app/product/6/610431-5776232.jpg?w=317&auto=format",
+      "/images/tshirt_img/t_f_6.avif",
     image2_url:
       "https://aeo.imgix.net/img/app/product/6/610431-5776233.jpg?w=317&auto=format",
     price: 1499,

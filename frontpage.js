@@ -40,7 +40,7 @@ function oldImg4() {
 }
 function newImg5() {
     document.getElementById("img6").src =
-        "./images/product_img/b_bv_srt5.jpg";
+        "./images/product_img/b_b_srt5.jpg";
 }
 function oldImg5() {
     document.getElementById("img6").src =
