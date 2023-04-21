@@ -1,50 +1,50 @@
 function newImg() {
     document.getElementById("img1").src =
-        "https://aeo.imgix.net/img/app/product/2/272941-1100474.jpg?w=312&amp;auto=format";
+        "./images/product_img/g_bck_fst_img.jpg";
 }
 function oldImg() {
     document.getElementById("img1").src =
-        "https://aeo.imgix.net/img/app/product/2/272941-1100475.jpg?w=312&amp;auto=format";
+        "/images/product_img/g_frnt_fst_img.jpg";
 }
 function newImg1() {
     document.getElementById("img2").src =
-        "https://aeo.imgix.net/img/app/product/3/342891-4497661.jpg?w=312&amp;auto=format";
+        "./images/product_img/b_b_srt1.png";
 }
 function oldImg1() {
     document.getElementById("img2").src =
-        "https://aeo.imgix.net/img/app/product/3/342891-4497659.jpg?w=312&amp;auto=format";
+        "./images/product_img/b_f_srt1.png";
 }
 function newImg2() {
     document.getElementById("img3").src =
-        "https://aeo.imgix.net/img/app/product/3/355762-4496778.jpg?w=312&amp;auto=format";
+        "./images/product_img/b_b_srt2.jpg";
 }
 function oldImg2() {
     document.getElementById("img3").src =
-        "https://aeo.imgix.net/img/app/product/3/355762-4496776.jpg?w=312&amp;auto=format";
+        "./images/product_img/b_f_srt2.jpg";
 }
 function newImg3() {
     document.getElementById("img4").src =
-        "https://aeo.imgix.net/img/app/product/4/462719-3377213.jpg?w=312&amp;auto=format";
+        "./images/product_img/b_b_srt3.jpg";
 }
 function oldImg3() {
     document.getElementById("img4").src =
-        "https://aeo.imgix.net/img/app/product/4/462719-3377214.jpg?w=312&amp;auto=format";
+        "./images/product_img/b_f_srt3.jpg";
 }
 function newImg4() {
     document.getElementById("img5").src =
-        "https://aeo.imgix.net/img/app/product/4/472640-5182045.jpg?w=312&amp;auto=format";
+        "./images/product_img/b_b_srt4.jpg";
 }
 function oldImg4() {
     document.getElementById("img5").src =
-        "https://aeo.imgix.net/img/app/product/4/472640-5182046.jpg?w=312&amp;auto=format";
+        "./images/product_img/b_f_srt4.jpg";
 }
 function newImg5() {
     document.getElementById("img6").src =
-        "https://aeo.imgix.net/img/app/product/4/492991-4532516.jpg?w=312&auto=format";
+        "./images/product_img/b_bv_srt5.jpg";
 }
 function oldImg5() {
     document.getElementById("img6").src =
-        "https://aeo.imgix.net/img/app/product/4/492991-4532514.jpg?w=312&auto=format";
+        "./images/product_img/b_f_srt5.jpg";
 }
 //Get the button
 var my_button = document.getElementById("myBtn");
